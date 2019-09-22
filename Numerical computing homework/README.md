@@ -1,4 +1,4 @@
-### Homework for numerical computing
+## Homework for numerical computing
 
-## Julia 1.1.1
-## using Plots, ProgressMeter
+### Julia 1.1.1
+### using Plots, ProgressMeter
